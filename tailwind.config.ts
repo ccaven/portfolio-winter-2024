@@ -4,7 +4,11 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
 
   theme: {
-    extend: {}
+    extend: {
+        gridTemplateColumns: {
+            'main': '1fr 3fr'
+        }
+    }
   },
 
   plugins: []
