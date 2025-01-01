@@ -1,7 +1,7 @@
 <div class="absolute min-w-full min-h-full m-0 p-0 bg-slate-50">
-    <div class="grid grid-cols-main p-10 max-w-screen-xl m-auto">
+    <div class="md:grid grid-cols-main p-10 max-w-screen-xl m-auto">
         <!-- Left panel -->
-        <div class="pr-5">
+        <div class="p-5">
             <img 
                 src="chace in front of tennis courts.jpg" 
                 class="w-full mb-5 overflow-clip" 
@@ -117,7 +117,7 @@
                 </p>
                 <p class="text-xl py-2">
                     The brain is an immensely complicated system. For mobile, movement-based tasks, analysis is limited: we can introduce stimuli and observe behavior.
-                    We can also listen in via the use of a mobile electroencephalogram (EEG). I am interested in decoding EEG signals with
+                    We can also "listen" via the use of a mobile electroencephalogram (EEG). I am interested in decoding EEG signals with
                     machine learning techniques.
                 </p>
                 <p class="text-xl py-2">
