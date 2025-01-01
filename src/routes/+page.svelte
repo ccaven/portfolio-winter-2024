@@ -20,7 +20,7 @@
 
         </div>
         <!-- Right panel -->
-        <div class="pl-10">
+        <div class="p-0 md:p-5">
             <div>
                 <h1 class="text-3xl mb-2">Hi.</h1>
                 
